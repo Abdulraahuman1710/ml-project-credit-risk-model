@@ -1,5 +1,5 @@
-#Credit Risk Classification Model
-##Project Overview
+# Credit Risk Classification Model
+## Project Overview
 This project aims to develop a Credit Risk Classification Model to predict the likelihood of credit default. The model uses a dataset of financial features and outcomes, providing insights into creditworthiness and aiding decision-making processes.
 
 ## Key Highlights
