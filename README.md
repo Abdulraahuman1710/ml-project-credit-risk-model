@@ -3,10 +3,11 @@
 This project aims to develop a Credit Risk Classification Model to predict the likelihood of credit default. The model uses a dataset of financial features and outcomes, providing insights into creditworthiness and aiding decision-making processes.
 
 ## Key Highlights
-Model Used: Logistic Regression
-Class Imbalance Handling: SMOTE Tomek
+Model Used: Logistic Regression,
+Class Imbalance Handling: SMOTE Tomek,
 Hyperparameter Tuning: Optuna
-Performance Metrics
+
+## Performance Metrics
 ## 1. Decile Analysis
 Top Deciles:
 Decile 9: Event rate of 72.00%, non-event rate of 28.00%. The model is highly confident in predicting events.
